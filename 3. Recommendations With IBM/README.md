@@ -8,8 +8,8 @@
 ### Tools
 <ul>
   <li>python 3.7 and above</li>
+ <li>numpy</li>
   <li>pandas</li>
-  <li>numpy</li>
   <li>matplotlib</li>
   <li>pickle</li>
   <li>re</li>
