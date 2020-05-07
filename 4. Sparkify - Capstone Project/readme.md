@@ -45,7 +45,7 @@ The goal of this project is to apply data analysis and machine learning to predi
 - Data needs pre-processing in form of
 	- Clean up of missing or unusable data
 	- Feature extraction to extract meaningful information
-- The pre-processed data is then used to train several supervised machine learning model.
+- On the next step, the pre-processed data is used to train several supervised machine learning model.
 - The best suited model is then chosen to predict future data
 
 ## Project Structure
