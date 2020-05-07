@@ -57,9 +57,9 @@ Sparkify/
 └── README.md
 ```
 
-- Sparkify.html                 ==> Generated report from notebook
-- Sparkify.ipynb                ==> Notebook
-- mini_sparkify_event_data.json ==> Sparkify user event log in json format
+- Sparkify.html                 --- Generated report from notebook
+- Sparkify.ipynb                --- Notebook
+- mini_sparkify_event_data.json --- Sparkify user event log in json format
 
 ## Reflections
 - After feature engineering, I used the same dataframe for further test/train split and subsequent model training. It took long time even for a small amount of data. It seems very obvious now but it was interesting to realize that since Spark procrastinates the operations on DataFrames, training iterations were taking long as the entire transformation pipeline was run every time. Persisting the dataset with engineered features and reloading it quickened up the model training.
