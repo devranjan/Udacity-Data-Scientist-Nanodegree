@@ -1,4 +1,4 @@
-# Sparkify - Capston Project
+# Sparkify - Capstone Project
 
 ## Table of contents
 
