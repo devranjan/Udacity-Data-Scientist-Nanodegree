@@ -56,4 +56,4 @@ articles an individual might interact with (spoiler alert - it isn't great). You
 might use moving forward, and how you might test how well your recommendations are working for engaging users.</p>
 
 ### License
-<p>This project belongs to Udacity Nanodegree, all the copyrights belog to Udacity.</p>
+<p>This project belongs to Udacity Nanodegree, all the copyrights belong to Udacity.</p>
